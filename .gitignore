@@ -5,3 +5,7 @@
 
 # Ignore approval test result files.
 *Test*.received.txt
+
+/.idea/
+.DS_Store
+
